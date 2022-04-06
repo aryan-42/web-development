@@ -1,0 +1,36 @@
+/*************************** TAG SELECTORS ***************************/
+/*
+h1{
+  color: red;
+}
+img{
+  background-color: red;
+}
+*/
+
+/*************************** CLASS SELECTORS ***************************/
+h1{
+  color: #F24A72;
+}
+
+.bacon{
+  background-color: silver;
+}
+
+.cake{
+  background-color: gold;
+}
+
+/*************************** ID SELECTORS ***************************/
+#tophead{
+  align-self: center;
+  color:#8479E1;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+img:hover{
+  background-color: #655D8A;
+}
